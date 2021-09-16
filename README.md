@@ -1,7 +1,10 @@
  <h3>DASH BOARD ADMIN</h3>
 
   <div align="center">
-    <img src="dashabord.png" width="100%" height="300px"</img> 
+    <img src="Screenshot 2021-09-16 at 08.01.22.png" width="100%" height="300px"</img> 
+ 
+     <img src="Screenshot 2021-09-16 at 08.01.22.png" width="100%" height="300px"</img> 
+
 </div>
 <hr>
 
