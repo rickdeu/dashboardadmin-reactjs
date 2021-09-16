@@ -3,7 +3,13 @@
   <div align="center">
     <img src="Screenshot 2021-09-16 at 08.01.22.png" width="100%" height="300px"</img> 
  
-     <img src="Screenshot 2021-09-16 at 08.01.22.png" width="100%" height="300px"</img> 
+     <img src="Screenshot 2021-09-16 at 08.01.22.png" width="100%" height="600px"</img> 
+
+</div>
+
+  <div align="center">
+ 
+     <img src="Screenshot 2021-09-16 at 08.01.22.png" width="100%" height="600px"</img> 
 
 </div>
 <hr>
